@@ -1,4 +1,3 @@
-[README_Version2.md](https://github.com/user-attachments/files/28682290/README_Version2.md)
 # RESEARCH
 this was a model for my research
 # Hi there! 👋 Selamat Datang di GitHub saya
