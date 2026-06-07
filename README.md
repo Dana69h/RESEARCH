@@ -50,11 +50,8 @@ Teknologi yang saya gunakan dalam penelitian ini:
 
 Tertarik untuk berkolaborasi dalam penelitian atau diskusi mengenai machine learning?
 
-- 📧 Email: [your-email@example.com]
-- 🔗 LinkedIn: [Your LinkedIn URL]
-- 🐦 Twitter/X: [@your-handle]
-- 💻 Website: [Your Website]
+- 📧 Email: pradanabayu376@gmail.com
 
 ## 📁 Struktur Repository
 
-Repository penelitian ini berisi:
+Repository penelitian ini berisi file kode program untuk penelitian
